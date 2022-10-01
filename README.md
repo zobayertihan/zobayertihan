@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Abu Zobayer Bin Siddique.
+- I’m currently learning Web Development.
+- How to reach me: Facebook: https://www.facebook.com/tihan.zobayer.3/
 
 <!--
 **zobayertihan/zobayertihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
