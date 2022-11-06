@@ -1,7 +1,10 @@
 ### Hi there, I am Abu Zobayer Bin Siddique.
 - I’m currently learning Web Development.
+- Learning React Framework with MongoDB.
 - Watching movies and playing games is my hobby.
 - Studying in the department of CSE at Bangladesh University of Business and Technology(BUBT).
+- Ask me about Football Staff.
+
 
 
 <!--
